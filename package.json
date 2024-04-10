@@ -3,7 +3,7 @@
   "version": "4.6.6",
   "private": true,
   "homepage": "https://github.com/movie-web/movie-web",
-  "scripts": {pnpm start}
+  "scripts": {pnpm start
     "dev": "vite",
     "build": "vite build",
     "build:pwa": "cross-env VITE_PWA_ENABLED=true vite build",
